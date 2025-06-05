@@ -1,5 +1,6 @@
 # GamerPad101
 # Screenshot of my overall Hackpad:
+The Model was designed in Fusion 360.Everything will held together using screws and nuts. This contains my PCB,4 switches in the WASD,
 ![image](https://github.com/user-attachments/assets/196d7e42-a435-4893-8b22-c01559bf6c33)
 # Screenshot of the PCB:
 ![image](https://github.com/user-attachments/assets/428d156b-7b0e-45dd-98a6-7fddbe1bcd8f)
